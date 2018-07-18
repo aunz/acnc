@@ -1,0 +1,13 @@
+name: project
+title: project
+username:
+account: kienly
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 382331
+bundleId: 1483677
+url: https://kienly.shinyapps.io/project/
+when: 1531801975.403
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|entry.R|data/2017 Public trust and confidence survey report.pdf

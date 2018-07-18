@@ -103,7 +103,7 @@ ui = fluidPage(
           <li>People in the age group of 65+ are <b>more</b> likely to trust charities compared to those less than 65.</li>
           <li>The unemployed, people with low income or did not provide income and single parents with dependent children were <b>less</b> likely to trust charities. They are possibly the groups that need charitible assistance the most.</li>
         '),
-        h4('Source: ')
+        h4('Source: https://github.com/aunz/acnc')
       )
     )
   )
