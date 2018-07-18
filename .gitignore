@@ -3,6 +3,7 @@
 /db
 /.data
 /data/report.pdf
+/rsconnect
 temp
 tmp
 /.env*
